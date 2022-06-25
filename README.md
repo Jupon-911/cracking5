@@ -1,5 +1,5 @@
 
-# Support 64/32 bit 
+# Open Source 🖕
 # Gratis / Free 🔥
 # Warning
 >> Script Free Yah Ngab 🤗
