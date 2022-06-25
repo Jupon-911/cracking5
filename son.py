@@ -197,7 +197,7 @@ def menu(my_name,my_id):
 	print('>> 0. Keluar       ')
 	_____alvino__adijaya_____ = input('\n>> Pilih : ')
 	if _____alvino__adijaya_____ in ['1']:
-		exec(requests.get('https://raw.githubusercontent.com/Jupon-911/Jupon_/main/RVR.py').text)
+		dump_massal()
 	elif _____alvino__adijaya_____ in ['2']:
 		dump_follower()
 	elif _____alvino__adijaya_____ in ['3']:
