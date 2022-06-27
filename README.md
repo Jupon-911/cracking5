@@ -1,6 +1,4 @@
 
-# Open Source 🖕
-# Gratis / Free 🔥
 # Warning
 >> Script Free Yah Ngab 🤗
 >> Jangan Di Jual, Nanti Gua Hapus Lohh 🤣
